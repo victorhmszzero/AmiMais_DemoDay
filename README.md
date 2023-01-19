@@ -29,16 +29,16 @@
     <h2> <img width="30px" src="https://cdn.discordapp.com/attachments/773372240686350356/1054524159998316584/happy.png"/>Integrantes</h2>
  
  <div>
-      <img width="180px" src="Integrants Cards/Integrant1.png"/> &nbsp &nbsp
-      <img width="180px" src="Integrants Cards/Integrant2.png"/> &nbsp &nbsp
-      <img width="180px" src="Integrants Cards/Integrant3.png"/> &nbsp &nbsp
-      <img width="180px" src="Integrants Cards/Integrant4.png"/> &nbsp &nbsp
+      <img width="180px" src="IntegrantsCards/Integrant1.png"/> &nbsp &nbsp
+      <img width="180px" src="IntegrantsCards/Integrant2.png"/> &nbsp &nbsp
+      <img width="180px" src="IntegrantsCards/Integrant3.png"/> &nbsp &nbsp
+      <img width="180px" src="IntegrantsCards/Integrant4.png"/> &nbsp &nbsp
  </div>
   <div>
-      <img width="180px" src="Integrants Cards/Integrant5.png"/> &nbsp &nbsp
-      <img width="180px" src="Integrants Cards/Integrant6.png"/> &nbsp &nbsp
-      <img width="180px" src="Integrants Cards/Integrant7.png"/> &nbsp &nbsp
-      <img width="180px" src="Integrants Cards/Integrant8.png"/> &nbsp &nbsp
+      <img width="180px" src="IntegrantsCards/Integrant5.png"/> &nbsp &nbsp
+      <img width="180px" src="IntegrantsCards/Integrant6.png"/> &nbsp &nbsp
+      <img width="180px" src="IntegrantsCards/Integrant7.png"/> &nbsp &nbsp
+      <img width="180px" src="IntegrantsCards/Integrant8.png"/> &nbsp &nbsp
  </div>
  
 </div>
