@@ -1,4 +1,4 @@
-<h1>Ami Mais</h1>
+<h1>AmiMais <img width="25px" src="https://cdn-icons-png.flaticon.com/512/12/12638.png"/></h1>
  
 <div align="center">
    <img width="550px" src="https://cdn.discordapp.com/attachments/773372240686350356/1054500953744744448/LogoAmiMais.png"/>
@@ -6,8 +6,9 @@
 <br/>
  
 <div align="center">
-   <h2> <img width="30px" src="https://cdn.discordapp.com/attachments/773372240686350356/1054524159998316584/happy.png"/> Quem somos</h2>
-   
+   <h2> <img width="30px" src="https://cdn.discordapp.com/attachments/773372240686350356/1054524159998316584/happy.png"/>  Quem somos</h2>
+ </div>
+ 
    <p>
       Somos uma plataforma com o objetivo de direcionar animais resgatados em
       situação de ruas para a adoção e darmos visibilidade a
@@ -16,18 +17,19 @@
       cuidado, conscientizando as pessoas dos cuidados e necessidades que esses
       animais precisam.
    </p>
-   
+<div align="center">
    <h2> <img  width="40px" src="https://cdn.discordapp.com/attachments/773372240686350356/1054526951672528927/thinking.png"/> Como surgiu a idea?</h2>
-   
-   <p>
+</div>
+  <p>
       Realizamos uma pesquisa em conjunto e concluímos que o número de abandono era
       assustador. Foi então que procuramos uma maneira de mudar esse cenário,
       queríamos fazer com que as pessoas tivessem entendimento dessa
       problemática e pudessem se conscientizar com a mesma, então surgiu o AmiMais, com
       o intuito que as pessoas amem mais os animais.
    </p>
-    <h2> <img width="30px" src="https://cdn.discordapp.com/attachments/773372240686350356/1054524159998316584/happy.png"/>Integrantes</h2>
- 
+
+<div align="center">
+ <h2> <img width="30px" src="https://images.emojiterra.com/google/noto-emoji/v2.034/128px/1f9d1.png"/> Integrantes</h2>
  <div>
       <img width="180px" src="IntegrantsCards/Integrant1.png"/> &nbsp &nbsp
       <img width="180px" src="IntegrantsCards/Integrant2.png"/> &nbsp &nbsp
@@ -40,7 +42,6 @@
       <img width="180px" src="IntegrantsCards/Integrant7.png"/> &nbsp &nbsp
       <img width="180px" src="IntegrantsCards/Integrant8.png"/> &nbsp &nbsp
  </div>
- 
 </div>
 
 <div>
